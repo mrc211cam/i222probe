@@ -4,7 +4,7 @@ schema_version = "1.4"
 name = "i222probe"
 
 [agent]
-timeout_sec = 120.0
+timeout_sec = 420.0
 
 [environment]
 docker_image = "python:3.12-slim-bookworm"
