@@ -1,7 +1,7 @@
 schema_version = "1.4"
 
 [task]
-name = "i222probe"
+name = "mrc211cam/i222probe"
 
 [agent]
 timeout_sec = 420.0
